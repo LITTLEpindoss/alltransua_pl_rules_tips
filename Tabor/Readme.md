@@ -9,6 +9,10 @@ Tworząc nową jednostkę taboru można wybrać jeden z dwóch rodzajów prezent
 Podczas dodawania zdjęcia korzystanie z pełnego formularza do tworzenia jest mile widziane, ale nie wymagane.
 Oficjalne, dodawanie szczegółów do bazy danych jest zadaniem redaktorów. Jedynym problemem jest ich ograniczona liczba i czas.
 
+**Uwaga!** W większości przypadków wprowadź stałą tablicę rejestracyjną w polu tablicy rejestracyjnej.
+
+*Zobacz także: [Info o tablicach w pole "Funkcje, historia, notatki"](#funkcje-historia-notatki)*
+
 ## Model
 
 Przy wyborze modelu wyposażenia prosimy o zwrócenie uwagi na to, którą pozycję wybieramy z listy, ponieważ czasami nazwy rodzin modeli pokrywają się z nazwami samych modeli.
@@ -31,136 +35,22 @@ Związanie ze spółką matką następuje, gdy:
 
 Nie wskazujemy w ewidencji pośrednich właścicieli tymczasowych (sprzedawcy, instytucje finansowe, bazy złomu).
 
-### Przekazania między oddiałamy
+### Przekazania między oddziałami
 
+*Zobacz także: [Jak ustalać transfery między oddziałami](../Zrdo%C5%82a_informacji.md#jak-ustalac-transfery-miedzy-oddzialami)*
 
+*Zobacz także: [Zmiana statusu](./Status_taboru.md#zmiana-statusu)*
 
+W idealnej sytuacji wszystkie transfery pomiędzy oddziałami/zajezdniami/przedsiębiorstwami powinny być wprowadzane do bazy danych.
 
+Jednak w rzeczywistości rozumiemy, że nie zawsze jest to konieczne i możliwe. W związku z tym postanowiono stworzyć próg czasu przebywania pojazdu w oddziale/zakładzie – co najmniej 1 miesiąc.
+Oczywiście nie jest zabronione dodawanie całej historii bez wyjątku w postaci osobnych rekordów profilu, ale zaleca się uwzględnienie ustalonego progu ujednolicenia bazy na terenie całego kraju, a także unikanie profili z dziesiątkami rekordów (np. w przypadku testowców).
 
+Aby nie stracić informacji o krótkim pobycie transportu w jakimś przedsiębiorstwie, w profilu znajduje się pole [Funkcje, historia, notatki](#funkcje-historia-notatki)
 
+## Numer fabryczny, VIN i fabryki
 
-
-
-
-
-## Numer fabryczny i VIN
-
-### Numer fabryczny
-
-#### MAN
-
-W przypadku MANów numer fabryczny jest osbnym znaczeniem które można zobaczyć na tablice fabrycznej lub znaleźć w specjalnym programie (na przykład MANtis). Na stronie internetowej podajemy numer fabryczny bez numeru modelu (262 zamiast 19C0262)
-
-#### Mercedes
-
-W większości przypadków numer fabryczny jest częścią kodu win, a mianowicie jego ostatnich 6 cyfr.
-
-#### Solaris
-
-Informacje o rozkodowaniu VIN można znaleźć na [stronie](https://autobus-vin.fandom.com/pl/wiki/Solaris)
-
-#### Tramwaje
-
-Tramwaje w większości przypadków mają tylko numery fabryczne (pomimo tego, że np. na Phototrans są wpisane w pole VIN). Wyjątkiem może być na przykład Pesa.
-
-### Fabryki i VIN dekoding
-
-#### Volkswagen AG
-
-Kod WMI - WV1
-
-Miejsca montażu są oznaczone 11. znakiem kodu VIN 
-
-WV1________?______
-
-- 6 - Mercedes-Benz Werk Düsseldorf
-- 7 - Mercedes-Benz Ludwigsfelde GmbH
-- 9 - Zakład Crafter Września
-
-#### NEOPLAN Bus GmbH
-
-Kod WMI - WAG
-
-Miejsca montażu są oznaczone 11. znakiem kodu VIN
-
-WAG_______?______
-
-- S - NEOPLAN Bus GmbH, Stuttgart (do 2003 r.)
-- P - NEOPLAN Bus GmbH, Pilsting (do 2003 r.)
-- B - NEOPLAN Bus GmbH, Berlin (do 2003 r.)
-- N - NEOPLAN Bus GmbH, Plauen (do 2003 r.)
-- 3 - NEOPLAN Bus GmbH, Stuttgart (od 2003)
-- 4 - NEOPLAN Bus GmbH, Pilsting (od 2003)
-- 5 - NEOPLAN Bus GmbH, Plauen (od 2003)
-- 6 - Tovarna Vozil Maribor (od 2003)
-- B, C, G, H, J, S - MAN Truck & Bus Standort Salzgitter
-- R - MAN Bus Sp. z o.o.
-- T - MAN Türkiye A.Ş.
-
-#### MAN Truck & Bus SE
-
-Kod WMI - WMA
-
-Miejsca montażu są oznaczone 11. znakiem kodu VIN
-
-WMA_______?______
-
-- B, C, G, H, J, S - MAN Truck & Bus Standort Salzgitter
-- F, R - MAN Bus Sp. z o.o.
-- T - MAN Türkiye A.Ş.
-- 3 - NEOPLAN Bus GmbH, Stuttgart
-- 4 - NEOPLAN Bus GmbH, Pilsting
-- 5 - NEOPLAN Bus GmbH, Plauen
-
-Dodatkowa informacja na [stronie](http://buspilotin.com/index.php/man/man-vin)
-
-#### Mercedes
-
-##### EvoBus GmbH
-
-Kod WMI - WEB
-W przypadku Citaro i Conecto miejsce montażu można określić na podstawie 11. i 12. znaku kodu VIN
-
-WEB_______??_____
-
-- 30xxxxxx - EvoBus GmbH
-- 31xxxxxx - EvoBus GmbH
-- 32xxxxxx - Mercedes-Benz Türk A.Ş.
-- 06xxxxxx - EvoBus France S.A.S.U
-- 37xxxxx - EvoBus GmbH
-
-##### Mercedes-Benz Group AG
-
-Kod WMI - WDB
-
-Miejsca montażu są oznaczone 11. znakiem kodu VIN 
-
-WDB________?______
-
-- 5, P, R, S - Mercedes-Benz Werk Düsseldorf
-- 9, N - Mercedes-Benz Ludwigsfelde GmbH
-
-#### IVECO France / Irisbus:
-
-Kod WMI - VNE
-
-Miejsca montażu są oznaczone 11. znakiem kodu VIN 
-
-VNE________?______
-
-- 0 - IVECO France SAS
-- M - Iveco Czech Republic, a. S.
-
-#### Solaris
-
-Informacje o rozkodowaniu VIN można znaleźć na [stronie](https://autobus-vin.fandom.com/pl/wiki/Solaris)
-
-### Podwozie i nadwozie
-
-Określenie tych parametrów jest charakterystyczne np. dla:
-- Skandynawskie podwozia i autobusy
-- autobusy na podwoziach samochodów dostawczych (Sprinter, Crafter, TGE) oraz ciężarowych
-- inne indywidualne przypadki, w których numer podwozia/nadwozia jest wskazany oddzielnie
+Wszystkie informacje o kodach VIN, fabrykach i numerach fabrycznych znajdują się w osobnym [pliku](./VINs_producers_etc.md).
 
 ## Daty "Od" i "Do"
 
@@ -185,40 +75,36 @@ Tutaj wpisujemy datę:
 
 ## Status pojazdu
 
-- Nowy - transport jest nowy i nigdy nie był używany przez żadne przedsiębiorstwo (zwykle dotyczy nowego sprzętu, który nie był jeszcze na linii)
+Wszystkie informacje o statusie znajdują się w oddzielnym [pliku](./Status_taboru.md).
 
-- Nieużywany w tym przedsiębiorstwie – używany pojazd, który został przeniesiony z innego działu/przedsiębiorstwa i który jeszcze nie był eksploatowany w tym przedsiębiorstwie
+## Notatka
 
-- Nie eksploatowany – transport, który aktualnie nie jest używany, najczęściej z powodu awarii
+Pole zostało utworzone w celu podania informacji, których nie ma na stronie.
 
-- Wycofany z eksploatacji - jednostka transportowa, która nie będzie już (jej wykorzystanie nie jest planowane) w eksploatacji w tym przedsiębiorstwie
+Np. w przypadku braku określonego miasta, gminy lub przedsiębiorstwa, wpis można powiązać z „Inne” odpowiedniego województwa lub miasta i w adnotacji do rejestru wskazać nazwę tego miasta wraz z skróconą nazwą przedsiębiorstwa, do którego należy ten pojazd.
 
-- Skasowany - jeśli historia pojazdu zakończyła się obecnie w tym przedsiębiorstwie lub jeśli został zezłomowany
+Lub w przypadku braku wymaganego modelu możesz wybrać rodzinę modeli (jeśli jest dostępna) lub w ogóle jej nie określać i wpisać poprawną nazwę w notatce.
 
-- Zniknął - kiedy wiemy na pewno, że zniknął (nieważne jak dziwnie to brzmi😅)
+Jeśli wszystkie niezbędne informacje nie mieszczą się w tym polu, to można je skrócić (na tyle, aby inni mogli to zrozumieć), a resztę wpisać w polu „Ukryty komentarz”.
 
-- Modernizacja/zmiana modelu (**WAŻNE!!!** - czytaj: [Modernizacje i profile pojazdów](#modernizacje-i-profile-pojazdów))
+**Ważne!** Proszę nie używać tego pola w innych przypadkach.
 
-- Zmiana miasta lub przedsiębiorstwa - w przypadku przeniesienia pojazdu do innej firmy (ze zmianą miasta lub bez)
+## Funkcje, historia, notatki
 
-- Przekazany w ramach przedsiębiorstwa - transfer z jednej zajezdni (oddziału) do drugiej
+*Zobacz także: [Zmiana statusu](./Status_taboru.md#zmiana-statusu)*
 
-- Zmiana danych w ramach oddziału – np. zmiana numeracji w ramach zajezdni, czy zmiana przeznaczenia pojazdu (np. przeróbka na służbowy lub historyczny)
+To pole jest przeznaczone przede wszystkim do wyświetlania momentów historii, które nie są wyświetlane jako osobne wpisy profilu zgodnie z zasadami serwisu lub opisanych w tym Repo.
 
-- Nie wiadomo – gdy nie mogłeś znaleźć w Internecie informacji o aktualnym stanie transportu (np. jeśli zdjęcie zostało zrobione w innym kraju o jakim istnieje bardzo niewiele zasobów i źródeł informacji)
+Pierwszym przykładem może być informacja o tymczasowych/tranzytowych/dealerskich tablicach rejestracyjnych, jeśli nie były one używane do pracy liniowej dłużej niż 1 miesiąc (we wszystkich przedsiębiorstwach łącznie).
 
-### Ceł
+Innym przykładem może być historia transferów transportowych:
+- między przedsiębiorstwami, w których przebywał krócej niż miesiąc (np. „wycieczki” egzemplarzów testowych po kraju).
+- historia z innych regionów/krajów, w których redaktor nie ma uprawnień do dodawania wpisów.
 
+Kolejnym przykładem są statystyki transportowe. Więcej na ten temat można przeczytać w [tym](./Status_taboru.md) pliku.
 
+W tym polu można również wpisać inne opcjonalne informacje, takie jak kolor autobusu, jego status prawny (prawdziwy właściciel (bank itp.)), informacje statystyczne (np. "12. zmodernizowany tramwaj tego typu w zajezdni Lipiny") itp. Ważne jest, aby trzymać się ram zdrowego rozsądku i czystości tego pola, aw niektórych przypadkach powstrzymać się od dodawania pewnych niezbyt ważnych informacji.
 
+## Ukryty komentarz
 
-
-
-
-
-
-
-
-
-
-## Modernizacje i profile pojazdów
+W tym polu możesz wpisać informacje, które zobaczą tylko redaktorzy.
