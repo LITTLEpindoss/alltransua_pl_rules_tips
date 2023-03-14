@@ -15,7 +15,7 @@ Oficjalne, dodawanie szczegółów do bazy danych jest zadaniem redaktorów. Jed
 
 ## Model
 
-Przy wyborze modelu wyposażenia prosimy o zwrócenie uwagi na to, którą pozycję wybieramy z listy, ponieważ czasami nazwy rodzin modeli pokrywają się z nazwami samych modeli.
+Przy wyborze modelu pojazdu prosimy o zwrócenie uwagi na to, którą pozycję wybieramy z listy, ponieważ czasami nazwy rodzin modeli pokrywają się z nazwami samych modeli.
 
 ![Wybor modelu](./Misc/choose_model.png)
 
@@ -60,9 +60,9 @@ Dla każdej daty wybieramy najdokładniejszą, zaczynając od pełnej daty (dzie
 
 Tutaj wpisujemy datę:
 - przeniesienie transportu do przedsiębiorstwa (poprzez odpowiednie zlecenie/akt przyjęcia-przekazania), lub w przypadku braku:
-- rejestracji państwowej, lub:
+- rejestracji państwowej/dostawy (co było później), lub:
 - oddania do eksploatacji (odpowiedni dokument), albo:
-- pierwszego pojawienia się na trasach
+- pierwszego pojawienia się na linii
 
 ### Do
 
@@ -81,11 +81,11 @@ Wszystkie informacje o statusie znajdują się w oddzielnym [pliku](./Status_tab
 
 Pole zostało utworzone w celu podania informacji, których nie ma na stronie.
 
-Np. w przypadku braku określonego miasta, gminy lub przedsiębiorstwa, wpis można powiązać z „Inne” odpowiedniego województwa lub miasta i w adnotacji do rejestru wskazać nazwę tego miasta wraz z skróconą nazwą przedsiębiorstwa, do którego należy ten pojazd.
+Np. w przypadku braku określonego miasta, gminy lub przedsiębiorstwa, wpis można powiązać z „Inne” odpowiedniego województwa lub miasta i w tym polu wskazać nazwę tego miasta wraz z skróconą nazwą przedsiębiorstwa, do którego należy ten pojazd.
 
 Lub w przypadku braku wymaganego modelu możesz wybrać rodzinę modeli (jeśli jest dostępna) lub w ogóle jej nie określać i wpisać poprawną nazwę w notatce.
 
-Jeśli wszystkie niezbędne informacje nie mieszczą się w tym polu, to można je skrócić (na tyle, aby inni mogli to zrozumieć), a resztę wpisać w polu „Ukryty komentarz”.
+Jeśli wszystkie niezbędne informacje nie mieszczą się w tym polu, to można je skrócić (na tyle, aby inni mogli to zrozumieć), a resztę wpisać w polu [„Ukryty komentarz”](#ukryty-komentarz).
 
 **Ważne!** Proszę nie używać tego pola w innych przypadkach.
 

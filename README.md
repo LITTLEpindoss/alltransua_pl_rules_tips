@@ -6,7 +6,7 @@ Zbiór zasad i wskazówek dotyczących prowadzenia bazy danych i atrybucji zdję
 
 Profil taboru - strona wyświetlająca historię i zdjęcie jednego konkretnego (fizycznie) pojazdu. Jeden profil może zawierać kilka wpisów.
 
-Rekord (w profilu) - podmiot, który odzwierciedla ważny moment w historii taboru (zmiana statusu, przeniesienie do innego miasta/firmy itp.).
+Wpis (w profilu) - podmiot, który odzwierciedla ważny moment w historii taboru (zmiana statusu, przeniesienie do innego miasta/firmy itp.).
 
 *Zobacz także: [Zmiana statusu](./Tabor/Status_taboru.md#zmiana-statusu)*
 

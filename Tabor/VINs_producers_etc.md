@@ -78,10 +78,10 @@ W przypadku Citaro i Conecto miejsce montażu można określić na podstawie 11.
 
 WEB_______??_____
 
-- 30xxxxxx - EvoBus GmbH
-- 31xxxxxx - EvoBus GmbH
-- 32xxxxxx - Mercedes-Benz Türk A.Ş.
-- 06xxxxxx - EvoBus France S.A.S.U
+- 30xxxxx - EvoBus GmbH
+- 31xxxxx - EvoBus GmbH
+- 32xxxxx - Mercedes-Benz Türk A.Ş.
+- 6xxxxxx - EvoBus France S.A.S.U
 - 37xxxxx - EvoBus GmbH
 
 #### Mercedes-Benz Group AG
