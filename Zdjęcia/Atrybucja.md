@@ -35,7 +35,7 @@ W przypadku klasycznego metra stacja końcowa jest wskazana jak zwykle, na przyk
     * Gliwice Centrum Przesiadkowe
     * pętla „Dworzec PKP”
 
-(7.2.6.) Jeżeli TK na zdjęciu znajduje się poza obszarem miejskim/wiejskim/innym obszarem zabudowanym, gdzie ulice mają wyraźne toponimy, to należy oznaczyć drogę, na której się znajduje zgodnie z normą krajową iw miarę możliwości określić teren. Przykłady:
+(7.2.6.) Jeżeli pojazd na zdjęciu znajduje się poza obszarem miejskim/wiejskim/innym obszarem zabudowanym, gdzie ulice mają wyraźne toponimy, to należy oznaczyć drogę, na której się znajduje zgodnie z normą krajową iw miarę możliwości określić teren. Przykłady:
 * Autostrada A4
 * Droga krajowa 79
 * Droga wojewódzka 902
@@ -43,9 +43,9 @@ W przypadku klasycznego metra stacja końcowa jest wskazana jak zwykle, na przyk
 Nie podawaj międzynarodowych nazw dróg/tras. Jeżeli przez dany odcinek drogi przebiega kilka dróg, pierwszeństwo mają drogi wyższego poziomu. Jeżeli droga nie posiada identyfikatora, należy jak najkrócej wskazać cel tej ścieżki – skąd i dokąd prowadzi. Przykład:
 * Mrozowo, droga na Kraczki
 
-(7.2.7.) Jeżeli TK na zdjęciu znajduje się na terenie jednostki produkcyjnej przedsiębiorstwa transportowego (zajezdnia, park itp.), pawilonu wystawowego, innego podobnego obiektu, należy podać nazwę obiektu, niezależnie od miejsca rejestracji z TK.
+(7.2.7.) Jeżeli pojazd na zdjęciu znajduje się na terenie jednostki produkcyjnej przedsiębiorstwa transportowego (zajezdnia, park itp.), pawilonu wystawowego, innego podobnego obiektu, należy podać nazwę obiektu, niezależnie od miejsca rejestracji pojazdu.
 
-(7.2.8.) Jeżeli TK znajduje się poza granicami obiektów opisanych powyżej, miejsce strzelania powinno być oznaczone w sposób umożliwiający useram jak najlepsze jego zlokalizowanie.
+(7.2.8.) Jeżeli pojazd znajduje się poza granicami obiektów opisanych powyżej, miejsce strzelania powinno być oznaczone w sposób umożliwiający useram jak najlepsze jego zlokalizowanie.
 
 (7.2.9.) Jeżeli pojazd znajduje się na zakręcie z jednej ulicy na drugą lub na skrzyżowaniu innych miejsc strzeleckich, prawidłowe jest użycie formatu:
 * ulica Budowlanych / ulica Begonii
@@ -59,7 +59,7 @@ Niepożądane wyszczególniać wyścigów ani linii, ponieważ taki podział bę
 
 Nazwy stacji, peronów itp. w innych krajach należy podawać zgodnie z pisownią odpowiednich języków.
 
-(7.2.11.) Jeśli zdjęcie jest połączone z kilkoma TK znajdującymi się w różnych lokalizacjach fotografowania, wskazana jest lokalizacja odpowiadająca pierwszej z połączonych TK.
+(7.2.11.) Jeśli zdjęcie jest połączone z kilkoma pojazdami znajdującymi się w różnych lokalizacjach fotografowania, wskazana jest lokalizacja odpowiadająca pierwszej z połączonych pojazdu.
 
 ## Data
 
@@ -67,7 +67,7 @@ Nazwy stacji, peronów itp. w innych krajach należy podawać zgodnie z pisowni�
 
 ## GPS i oznaczenie na mapie
 
-(7.4.) Zaleca się zaznaczenie miejsca wykonania zdjęcia na mapie. Dzięki temu informacje będą pełniejsze i pozwolą na śledzenie geografii transportu. Jeśli w metadanych EXIF ​​znajdują się współrzędne geograficzne, miejsce wykonania zdjęcia zostanie wskazane automatycznie. Konieczne jest wskazanie lokalizacji TK, a nie punktu, w którym znajdował się fotograf. W przypadku powiązania kilku TK należy wskazać lokalizację pierwszego z połączonych TK.
+(7.4.) Zaleca się zaznaczenie miejsca wykonania zdjęcia na mapie. Dzięki temu informacje będą pełniejsze i pozwolą na śledzenie geografii transportu. Jeśli w metadanych EXIF ​​znajdują się współrzędne geograficzne, miejsce wykonania zdjęcia zostanie wskazane automatycznie. Konieczne jest wskazanie lokalizacji pojazdu, a nie punktu, w którym znajdował się fotograf. W przypadku powiązania kilku pojazdów należy wskazać lokalizację pierwszego z połączonych.
 
 ## Objekty na zdjęciu
 
