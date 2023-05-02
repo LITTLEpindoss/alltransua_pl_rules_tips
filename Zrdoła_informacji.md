@@ -9,3 +9,9 @@ Jednym z łatwych sposobów identyfikacji transferów pojazdów między zajezdni
 Przykładowo, jeśli na Phototransie widzisz zdjęcie autobusu w Białymstoku, a potem rok później w Lublinie (chodzi o to samo przedsiębiorstwo), to oczywiście trzeba sformalizować ten fakt przeniesienia.
 
 Jeśli dostępnych informacji o takim przeniesieniu nie można znaleźć w innych otwartych źródłach informacji, wówczas przybliżoną datę przeniesienia można wskazać na podstawie czasu zdjęć z różnych miast.
+
+## Bazy KRS
+
+* https://krs-pobierz.pl/
+* https://rejestr.io/
+* http://www.krs-online.com.pl/

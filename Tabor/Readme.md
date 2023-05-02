@@ -23,13 +23,11 @@ Nazwy rodziny modeli należy używać tylko wtedy, gdy nie znasz dokładnej mody
 
 ## Zajezdnia
 
-*Zobacz także: [Przedsiębiorstwa](../Przedsi%C4%99biorstwa/Readme.md)*
+*Zobacz także: [Miejsce rejestracji i oddziały](../Przedsi%C4%99biorstwa/Readme.md#Miejsce-rejestracji-i-oddziały)*
 
 W przeciwieństwie do Phototransu, nasze pojazdy są przypisane do działającej bazy, a nie do prawnego właściciela.
 
-Weźmy jako przykład firmę Irex/Meteor, która posiada oddziały w całej Polsce. Jeśli autobus został sfotografowany na terenie Lublina, to znaczy, że autobus tworzymy w Lublinie, czyli lubelskim oddziale firmy Irex/Meteor, ponieważ autobus jest przechowywany i serwisowany przez zajezdnię w tym mieście (i nie jeździ co dzień do Świętochlowic iz powrotem😅).
-
-Związanie ze spółką matką następuje, gdy:
+Związanie ze spółką-matką następuje, gdy:
 - firma posiada jedną zajezdnie (nie dotyczy firm zarejestrowanych w innym miejscu niż zajezdnia)
 - nie wiesz na pewno, do której zajezdni należy ten pojazd (w większości przypadków ma to znaczenie, gdy w tym samym mieście jest kilka zajezdni jednego przedsiębiorstwa).
 
@@ -37,13 +35,13 @@ Nie wskazujemy w ewidencji pośrednich właścicieli tymczasowych (sprzedawcy, i
 
 ### Przekazania między oddziałami
 
-*Zobacz także: [Jak ustalać transfery między oddziałami](../Zrdo%C5%82a_informacji.md#jak-ustalac-transfery-miedzy-oddzialami)*
+*Zobacz także: [Jak ustalać transfery między oddziałami](../Zrdo%C5%82a_informacji.md#jak-ustalac-transfery-miedzy-oddziałami)*
 
 *Zobacz także: [Zmiana statusu](./Status_taboru.md#zmiana-statusu)*
 
 W idealnej sytuacji wszystkie transfery pomiędzy oddziałami/zajezdniami/przedsiębiorstwami powinny być wprowadzane do bazy danych.
 
-Jednak w rzeczywistości rozumiemy, że nie zawsze jest to konieczne i możliwe. W związku z tym postanowiono stworzyć próg czasu przebywania pojazdu w oddziale/zakładzie – co najmniej 1 miesiąc.
+Jednak w rzeczywistości rozumiemy, że nie zawsze jest to konieczne i możliwe. W związku z tym postanowiono stworzyć próg czasu przebywania pojazdu w oddziałe/zakładzie – co najmniej 1 miesiąc.
 Oczywiście nie jest zabronione dodawanie całej historii bez wyjątku w postaci osobnych rekordów profilu, ale zaleca się uwzględnienie ustalonego progu ujednolicenia bazy na terenie całego kraju, a także unikanie profili z dziesiątkami rekordów (np. w przypadku testowców).
 
 Aby nie stracić informacji o krótkim pobycie transportu w jakimś przedsiębiorstwie, w profilu znajduje się pole [Funkcje, historia, notatki](#funkcje-historia-notatki)

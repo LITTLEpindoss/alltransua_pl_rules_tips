@@ -103,7 +103,7 @@ Modernizacja pojazdu jest wyświetlana na stronie internetowej tylko wtedy, gdy 
 
 ![Modernizacja](./Misc/modernization.png)
 
-W przypadku wymiany częśći numerowanej należy utworzyć nowy <ins>**PROFIL**</ins>, czyli odrębną jednostkę transportową. Wtedy dla ostatniego wpisu starego profilu tego samochodu należy wskazać odpowiedni stan określonej częśći numerowanej (na przykład stare nadwozie) - "Skasowany", "Niewiadomo" itp.
+W przypadku wymiany częśći numerowanej należy utworzyć nowy <ins>**PROFIL**</ins>, czyli odrębną jednostkę transportową. Wtedy dla ostatniego wpisu starego profilu tego samochodu należy wskazać odpowiedni stan określonej częśći numerowanej (na przykład stan starego nadwozia) - "Skasowany", "Niewiadomo" itp.
 
 Na przykład ten Konstal nie jest przywiązany do żadnego starego profilu, ponieważ jest wykonany na bazie zupełnie nowego pudła:
 
