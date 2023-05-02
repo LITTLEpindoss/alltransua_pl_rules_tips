@@ -4,7 +4,7 @@ Zbiór zasad i wskazówek dotyczących prowadzenia bazy danych i atrybucji zdję
 
 ## Treść repo
 
-[**Oficjalne zasady ATU**](./Zdj%C4%99cia/Redame.md)
+[**Oficjalne zasady ATU**](./Zdj%C4%99cia/Readme.md)
 
 [Atrybucjia zdjęć](./Zdj%C4%99cia/Atrybucja.md)
 
