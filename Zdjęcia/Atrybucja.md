@@ -35,6 +35,18 @@ W przypadku klasycznego metra stacja końcowa jest wskazana jak zwykle, na przyk
     * Gliwice Centrum Przesiadkowe
     * pętla „Dworzec PKP”
 
+Jeżeli pojazd jest fotografowany na terenie gminy:
+* jeśli jest to jej centralna osada (miasto/wieś/miejscowość), NIE podajemy jej nazwy w miejscu fotografowania
+* jeśli jest to inna osada (miejscowość) to zaznaczamy ją na początku miejsca strzelania; nazwa ulicy lub drogi są pisane po przecinku po nazwie miejscowości
+
+Przykład (część w kwadratowych nawiasach to nazwa jednostki administracyjnej, a po nich - miejsce strzelania):
+* [Gmina Jelcz-Laskowice,] ulica Mieszka I
+* [Gmina Jelcz-Laskowice,] Minkowice Oławskie, ulica Makowa
+
+Jeżeli w jednej osadzie (zwykle w dużych miastach) jest kilka ulic o tych samych nazwach, to po ich nazwach podajemy w nawiasie nazwę dzielnicy:
+* [Warszawa,] ulica Wierzbowa (Wesoła)
+* [Warszawa,] ulica Wierzbowa (Śródmieście)
+
 (7.2.6.) Jeżeli pojazd na zdjęciu znajduje się poza obszarem miejskim/wiejskim/innym obszarem zabudowanym (gdzie ulice mają wyraźne toponimy), to należy oznaczyć drogę, na której się znajduje zgodnie z normą krajową iw miarę możliwości określić teren. Przykłady:
 * Autostrada A4
 * Droga krajowa 79
