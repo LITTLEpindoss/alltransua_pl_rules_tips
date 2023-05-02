@@ -44,8 +44,8 @@ Przykład (część w kwadratowych nawiasach to nazwa jednostki administracyjnej
 * [Gmina Jelcz-Laskowice,] Minkowice Oławskie, ulica Makowa
 
 Jeżeli w jednej osadzie (zwykle w dużych miastach) jest kilka ulic o tych samych nazwach, to po ich nazwach podajemy w nawiasie nazwę dzielnicy:
-* [Warszawa,] ulica Wierzbowa (Wesoła)
-* [Warszawa,] ulica Wierzbowa (Śródmieście)
+* ulica Wierzbowa (Wesoła)
+* ulica Wierzbowa (Śródmieście)
 
 (7.2.6.) Jeżeli pojazd na zdjęciu znajduje się poza obszarem miejskim/wiejskim/innym obszarem zabudowanym (gdzie ulice mają wyraźne toponimy), to należy oznaczyć drogę, na której się znajduje zgodnie z normą krajową iw miarę możliwości określić teren. Przykłady:
 * Autostrada A4
@@ -57,7 +57,8 @@ Nie podawaj międzynarodowych nazw dróg/tras. Jeżeli przez dany odcinek drogi 
 
 (7.2.7.) Jeżeli pojazd na zdjęciu znajduje się na terenie jednostki produkcyjnej przedsiębiorstwa transportowego (zajezdnia, park itp.), pawilonu wystawowego, innego podobnego obiektu, należy podać nazwę obiektu, niezależnie od miejsca rejestracji pojazdu.
 
-(7.2.8.) Jeżeli pojazd znajduje się poza granicami obiektów opisanych powyżej, miejsce strzelania powinno być oznaczone w sposób umożliwiający użytkowniku jak najlepsze jego zlokalizowanie.
+(7.2.8.) Jeżeli pojazd znajduje się poza granicami obiektów opisanych powyżej, miejsce strzelania powinno być oznaczone w sposób umożliwiający użytkowniku jak najlepsze jego zlokalizowanie. Na przykład:
+* [Sosnowiec,] Porąbka, mijanka Zawodzie
 
 (7.2.9.) Jeżeli pojazd znajduje się na zakręcie z jednej ulicy na drugą lub na skrzyżowaniu innych miejsc strzeleckich, prawidłowe jest użycie formatu:
 * ulica Budowlanych / ulica Begonii
