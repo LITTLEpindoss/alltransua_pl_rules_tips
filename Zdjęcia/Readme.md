@@ -1,6 +1,6 @@
 # Zasady dodawania zdjęć
 
-Oficjalne zasady ATU. Numery referencyjne z nich są dodawane przed każdym punktem i mogą być w nawiasach, jeśli występują w innej kolejności lub w innym dokumencie.
+Tłumaczenie oficjalnych zasad ATU. Numery referencyjne z nich są dodawane przed każdym punktem i mogą być w nawiasach, jeśli występują w innej kolejności lub w innym dokumencie.
 
 ## Temat
 
@@ -8,19 +8,19 @@ Oficjalne zasady ATU. Numery referencyjne z nich są dodawane przed każdym punk
 * Trolejbusy, tramwaje i systemy metra.
 * Kolejowe pociągi międzymiastowe - lekkie systemy podmiejskie / międzymiastowe, które działają na własnej infrastrukturze i mają sekcje w środku miasta.
 * Autobusy realizujące przewozy na trasach miejskich, podmiejskich i międzymiastowych.
-* Kolejki linowe i funikuler, które przewożą pasażerów w miastach i pełnią rolę transportu publicznego.
+* Kolejki linowe, które przewożą pasażerów w miastach i pełnią rolę transportu publicznego.
 * Obiekty infrastruktury komunikacji miejskiej.
-* Specjalistyczny serwis i sprzęt serwisowy wyżej w/w systemów.
+* Specjalistyczny serwis i sprzęt serwisowy w/w systemów.
 
-1.2. Które treści mają mniejszy priorytet?
+1.2. Które treści mają mniejszy priorytet?:
 * Autobusy małej klasy o długości poniżej 7 metrów, autobusy na podwoziu cargo.
 * Pojedyncze przykłady modeli autobusów przeznaczonych do przewozu osób, które nie są i nie były wcześniej wykorzystywane jako transport publiczny.
 * S-Bahn i podobne miejskie systemy kolei podmiejskich.
-* Pojazdy wodne - tylko wtedy, gdy wykonują regularny miejski przewóz osób w rozumieniu przepisów.
+* Pojazdy wodne - tylko wtedy, gdy wykonują regularny miejski przewóz osób w rozumieniu prawa.
 
 (1.4.) Do mniej pożądanych treści istnieją niezwykle wysokie wymagania dotyczące jakości technicznej fotografii.
 
-1.3. Co dokładnie nie jest tematem?
+1.3. Co dokładnie nie jest tematem?:
 * Pociągi podmiejskie, pociągi regionalne, dalekobieżne pociągi pasażerskie, pociągi towarowe, lokomotywy główne i manewrowe.
 * Tabor, który nie jest sztywno przymocowany do systemów podobnych do S-Bahn. Na przykład, jeśli na trasie S-Bahn znajduje się pociąg trakcyjny lokomotywy, zdjęcie samej lokomotywy (chyba, że ​​jest zamocowana za pociągiem w stały sposób) nie jest tematem strony.
 * Infrastruktura kolejowa.
@@ -30,17 +30,17 @@ Oficjalne zasady ATU. Numery referencyjne z nich są dodawane przed każdym punk
 
 ## Fabuła zdjęć
 
-2.1. Zdjęcie zewnętrzne - zdjęcie przedstawiające wygląd zewnętrzny pojazdu będącego przedmiotem serwisu (dalej - pojazdu), lub kilku takich pojazdów.
+2.1. Zdjęcie zewnętrzne - zdjęcie przedstawiające wygląd zewnętrzny pojazdu transportu publicznego będącego przedmiotem serwisu (dalej - pojazdu), lub kilku takich pojazdów.
 
 2.2. Wnętrze - zdjęcie przedstawiające wnętrze pojazdu dla pasażera.
 
 2.3. Kabina - zdjęcie przedstawiające miejsce pracy kierowcy (kabiny) pojazdu.
 
-2.4. Wyposażenie – zdjęcie przedstawiające elementy napędowe i pomocnicze wyposażenia pojazdu.
+2.4. Wyposażenie – zdjęcie przedstawiające napędowe i pomocnicze elementy wyposażenia pojazdu.
 
-2.5. Fotografia szczegółowa to fotografia przedstawiająca poszczególne zewnętrzne (rzadziej wewnętrzne) elementy pojazdu.
+2.5. Szczegółowe zdjęcie - fotografia przedstawiająca poszczególne zewnętrzne (rzadziej wewnętrzne) elementy pojazdu.
 
-2.6. Tablica rejestracyjna – zdjęcie przedstawiające tablicę rejestracyjną pojazdu lub inną wersję fabrycznego oznaczenia pojazdu. Tablice agregatów i innego wyposażenia publikowane są w rozdziale 2.4.
+2.6. Tablica producenta (tabliczka znamionowa) – zdjęcie przedstawiające tablicę producenta pojazdu lub inną wersję fabrycznego oznaczenia pojazdu. Tablice agregatów i innego wyposażenia publikowane są w rozdziale 2.4.
 
 2.7. Infrastruktura - zdjęcie przedstawiające elementy sieci jezdnej, infrastrukturę kolejową, jednostki produkcyjne (zajezdnie, parki itp.). Obecność pojazdu na takim zdjęciu nie jest obowiązkowa, ale jest dozwolona.
 
@@ -49,14 +49,14 @@ Oficjalne zasady ATU. Numery referencyjne z nich są dodawane przed każdym punk
 2.9. Dla zdjęć infrastruktury, jeżeli w kadrze znajduje się pojazd, dopuszcza się powiązanie z zapisem tego pojazdu, jeżeli część zdjęcia z nim jest wystarczająco informacyjna.
 
 2.10. Jeżeli w kadrze znajduje się kilka pojazdów, wskazane jest powiązanie zdjęcia z tymi pojazdami, część zdjęcia z którymi ma wartość informacyjną:
-* są one pokazane w całości (jeśli są to drugie, trzecie, itd. samochody w systemie – co najmniej jedno części boczne, przednie lub tylne są pokazane w całości)
+* są one pokazane w całości (jeśli są to drugie, trzecie, itd. samochody w systemie – co najmniej jedna część boczna, przednia lub tylna jest pokazana w całości)
 * wystarczająco duże, aby pokazać szczegóły, znajdują się w centrum kadru, a nie na jego tle
 
-W przypadku braku zdjęć pojazdu w takim stanie lub ich braku, dopuszcza się powiązanie takiego pojazdu w przypadku niepełnego spełnienia powyższych wymagań.
+W przypadku braku zdjęć pojazdu w takim stanie lub braku innych zdjęć w ogóle, dopuszcza się powiązanie takiego pojazdu w przypadku niepełnego spełnienia powyższych wymagań.
 
-2.11. W przypadku oznaczenia kilku pojazdu, najpierw należy oprawić tę widoczną na pierwszym planie (która jest najbardziej widoczna w ognisku kadru). Jeśli pojazdu w ramce mają jednakową wagę wizualną, należy je wiązać zaczynając od lewej krawędzi zdjęcia. Jeśli to nie wystarczy do ustalenia pierwszeństwa, pojazdu, który jest wyżej w ramce, powinien być zremisowany jako pierwszy. Jeśli na zdjęciu układ wielu jednostek (sprzęg, pociąg), wiązanie należy rozpocząć od pierwszego wagonu, jeśli są zdejmowane z przodu lub od ostatniego, jeśli są zdejmowane z tyłu.
+2.11. W przypadku oznaczenia kilku pojazdów, najpierw należy zaznaczyć tę widoczną na pierwszym planie (która jest najbardziej widoczna w ognisku kadru). Jeśli pojazdy w ramce mają jednakową wagę wizualną, należy ich wiązać zaczynając od lewej krawędzi zdjęcia. Jeśli to nie wystarczy do ustalenia pierwszeństwa, pojazd, który jest wyżej w ramce, powinien być powiązany jako pierwszy. Jeśli na zdjęciu układ wielu jednostek (skład, pociąg), wiązanie należy rozpocząć od pierwszego wagonu, jeśli są fotografowane z przodu lub od ostatniego, jeśli są fotografowane z tyłu.
 
-*Zobacz także: [Objekty na zdjęciu](./Atrybucja.md#Objekty-na-zdjęciu)*
+*Zobacz także: [Obiekty na zdjęciu](./Atrybucja.md#obiekty-na-zdj%C4%99ciu)*
 
 ## Jakość techniczna zdjęć
 
@@ -72,7 +72,7 @@ W przypadku braku zdjęć pojazdu w takim stanie lub ich braku, dopuszcza się p
 
 3.6. Horyzont na zdjęciu powinien być płaski. Wyjątkiem może być zamysł artystyczny, ale nie należy go nadużywać.
 
-3.7. Na zdjęciu obiekt musi być wyraźnie przedstawiony (nie nieostry, nie rozmyty). Podczas wyostrzania zdjęcia w celu skorygowania rozmycia unikaj nadmiernego wyostrzania. Wyjątki są dozwolone, ale nie reguła.
+3.7. Na zdjęciu obiekt musi być wyraźnie przedstawiony (wyraźny, nie rozmyty). Podczas wyostrzania zdjęcia w celu skorygowania rozmycia unikaj nadmiernego go używania. Wyjątki są dozwolone, ale nie jest regułą.
 
 3.8. Na zdjęciu zewnętrznym co najmniej jeden pojazd musi być pokazany w całości. Jeśli tak nie jest, musi istnieć dobry powód, dla którego takie zdjęcie znajduje się na stronie.
 
@@ -84,9 +84,9 @@ W przypadku braku zdjęć pojazdu w takim stanie lub ich braku, dopuszcza się p
 
 3.12. W przypadku treści mniej pożądanych (punkt 1.2.) wymagania dotyczące jakości technicznej zdjęć są wyższe niż w przypadku treści tematycznych.
 
-3.13. Częściowa niezgodność z wymaganiami jest bardziej akceptowalna w przypadku zdjęć wykonanych dawno temu, zdjęć o wartościowym lub rzadkim temacie, w przypadku braku podobnych zdjęć pojazdu oraz w innych przypadkach, gdy jest to właściwe. Jeśli wartość ramki nie jest oczywista dla ogółu społeczeństwa, należy to zaznaczyć w komentarzu.
+3.13. Częściowa niezgodność z wymaganiami jest bardziej akceptowalna w przypadku zdjęć wykonanych dawno temu, zdjęć o wartościowym lub rzadkim temacie, w przypadku braku podobnych zdjęć pojazdu oraz w innych przypadkach, gdy jest to właściwe. Jeśli wartość zdjęcia nie jest oczywista dla ogółu społeczeństwa, należy to zaznaczyć w komentarzu.
 
-3.14. W przypadku zdjęć wnętrz i kabin nierówne oświetlenie i obecność obcych obiektów na pierwszym planie są bardziej akceptowalne.
+3.14. W przypadku zdjęć wnętrz i kabin najczęstszymi błędami są nierówne oświetlenie i obecność obcych obiektów na pierwszym planie.
 
 3.15. Czytelność elementów tekstowych jest istotna przede wszystkim w przypadku zdjęć tabliczek.
 
@@ -124,4 +124,4 @@ W przypadku, gdy użytkownik publikuje zdjęcia, które naruszają punkt 5 ninie
 
 ## Wykorzystanie treści graficznych
 
-Użytkownicy, zamieszczając treści w galerii zdjęć, zezwalają serwisowi na wykorzystanie ich do zilustrowania aktualności i publikacji w sieciach społecznościowych Alltransua, wskazując na autorstwo zdjęcia.
+Przesyłając treści do galerii zdjęć, użytkownicy zezwalają na wykorzystanie tych zdjęć przez serwis do zilustrowania wiadomości i publikacji w sieciach społecznościowych Alltransua, ze wskazaniem autorstwa zdjęcia.
