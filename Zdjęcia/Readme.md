@@ -86,7 +86,7 @@ W przypadku braku zdjęć pojazdu w takim stanie lub braku innych zdjęć w ogó
 
 3.13. Częściowa niezgodność z wymaganiami jest bardziej akceptowalna w przypadku zdjęć wykonanych dawno temu, zdjęć o wartościowym lub rzadkim temacie, w przypadku braku podobnych zdjęć pojazdu oraz w innych przypadkach, gdy jest to właściwe. Jeśli wartość zdjęcia nie jest oczywista dla ogółu społeczeństwa, należy to zaznaczyć w komentarzu.
 
-3.14. W przypadku zdjęć wnętrz i kabin najczęstszymi błędami są nierówne oświetlenie i obecność obcych obiektów na pierwszym planie.
+3.14. W przypadku zdjęć salonu i kabiny nierówne oświetlenie, obecność niepożądanych obiektów na pierwszym planie są bardziej akceptowalne niż w innych typach.
 
 3.15. Czytelność elementów tekstowych jest istotna przede wszystkim w przypadku zdjęć tabliczek.
 
